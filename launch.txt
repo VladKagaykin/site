@@ -1,0 +1,2 @@
+sudo apt install php php-sqlite3
+php -S 192.168.0.158:8080
